@@ -1,3 +1,6 @@
+# CSOPORT GITHUB LINK
+[CSOPORT LINK](https://drive.google.com/drive/folders/13AGHxSVfgTrBsZo19crcuXa43jSNrOhQ?usp=sharing)
+
 # Bemutatkozás
 
 ## Rólam
