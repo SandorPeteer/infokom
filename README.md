@@ -46,7 +46,9 @@ Youtube pingelés:
 
 <img width="543" height="285" alt="image" src="https://github.com/user-attachments/assets/dc3c5b89-8297-4b8a-9c61-139e44741656" />
 
+---
 
+CODE:
 
 ```
 //Initialize the array that will hold the primes
